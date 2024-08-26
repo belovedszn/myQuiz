@@ -1,1 +1,1 @@
-# project name 2
+# project quiz app using html, css & javascript
